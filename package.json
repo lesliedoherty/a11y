@@ -1,0 +1,45 @@
+{
+  "name": "easally-expressjs",
+  "version": "0.1.0",
+  "description": "Easally, running as an ExpressJS application",
+  "repository": "https://gitlab.com/easally/expressjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "standard && nodemon app.js --exec babel-node",
+    "test": "mocha --require @babel/register"
+  },
+  "keywords": [
+    "easally",
+    "a11y"
+  ],
+  "author": "Stephen Lewis <code@stephenlewis.me>",
+  "license": "ISC",
+  "dependencies": {
+    "axe-webdriverjs": "^2.3.0",
+    "date-format": "^2.1.0",
+    "express": "^4.17.1",
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "nodemon": "^1.19.1",
+    "standard": "^14.0.2"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "test/*",
+      "storage/*"
+    ]
+  },
+  "standard": {
+    "ignore": [
+      "node_modules/**"
+    ]
+  }
+}

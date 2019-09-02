@@ -1,0 +1,7 @@
+101,  https://www.manifest.uk.com
+102,  https://www.manifest.uk.com/blog
+103,  https://www.manifest.uk.com/case-studies
+104,  https://www.manifest.uk.com/case-studies/previz
+105,  https://www.manifest.uk.com/contact
+106,  https://www.manifest.uk.com/credits
+107,  https://www.manifest.uk.com/privacy
