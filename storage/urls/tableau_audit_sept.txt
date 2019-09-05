@@ -1,100 +1,100 @@
-119336,/
-41769,/products/desktop/download
-40485,/learn/training
-32324,/academic/students
-27478,/search
-25686,/asset/excel-and-tableau-beautiful-partnership
-21529,/products/desktop
-20459,/pricing/individual
-20235,/products
-19235,/tableau-student/
-19026,/products/trial
-18594,/learn/tutorials/on-demand/getting-started
-17377,/support
-15979,/trial/tableau-software
-15423,/pricing/teams-orgs
-14564,/tableau-student/index.html
-14255,/products/reader
-14077,/support/releases/desktop/2019.2.3
-13320,/asset/5-most-influential-visualizations
-13097,/support/releases
-12179,/learn/certification
-11722,/tft/activation
-11469,/asset/data-storytelling-using-visualization-share-human-impact-numbers
-11154,/learn
-11151,/individual
-9964,/products/cloud-bi
-9335,/products/reader/download
-8961,/products/prep/download
-8938,/learn/training/elearning
-7680,/ja-jp
-7598,/zh-cn/trial/tableau-software
-6817,/about/careers
-5878,/solutions
-5804,/ja-jp/asset/data-storytelling-using-visualization-share-human-impact-numbers
-5656,/learn/certification/desktop-specialist
-5593,/support/help
-5430,/page-not-found
-5187,/en-us/support/drivers
-5023,/support/drivers
-4994,/learn/classroom
-4944,/zh-cn
-4670,/tableau-student/upload-success.html
-4619,/products/prep
-4359,/solutions/gallery
-4345,/learn/certification/desktop-certified-associate
-4263,/learn/classroom/in-person
-4256,/asset/six-myths-moving-traditional-to-modern-bi
-4253,/learn/tutorials/on-demand/tableau-interface
-4251,/pricing/embedded
-4218,/products/server
-4159,/about/contact
-4141,/trial/interactive-charts-and-graphs
-3972,/support/case
-3965,/academic
-3964,/fr-fr/asset/excel-and-tableau-beautiful-partnership
-3772,/zh-cn/learn/training
-3771,/learn/get-started
-3698,/support/desktop
-3626,/community
-3619,/support/releases/server
-3547,/products/new-features
-3544,/teams-orgs
-3496,/fr-fr/asset/how-build-dashboards-persuade-inform-and-engage
-3466,/es-es
-3349,/learn/tutorials/on-demand/getting-started-data
-3305,/learn/classroom/desktop-one
-3294,/products/desktop/download-now
-3176,/accelerate-your-advanced-analytics-r-python-matlab-emea
-3133,/learn/classroom/virtual
-3099,/about/blog/LOD-expressions
-2964,/learn/tutorials/on-demand/getting-started-tableau-prep
-2855,/trial/excel-with-your-data
-2810,/ja-jp/reports/business-intelligence-trends
-2743,/asset/dos-and-donts-dashboards
-2727,/learn/tutorials/on-demand/getting-started-visual-analytics
-2700,/es-es/trial/tableau-software
-2575,/learn/series/advanced-analytics-data-scientists-emea
-2477,/zh-cn/products/trial
-2472,/about
-2409,/asset/top-10-big-data-trends
-2370,/ja-jp/pricing/teams-orgs
-2328,/learn/get-started/creator
-2306,/learn/articles/free-public-data-sets
-2280,/academic/teaching
-2264,/pt-br
-2250,/support/activation
-2240,/ja-jp/learn/articles/what-is-benchmark
-2203,/products/individuals
-2179,/learn/tutorials/on-demand/distributing-and-publishing
-2170,/learn/webinars/value-Tableau-Conference-TC19-2019-08-29
-2123,/products/online/thanks
-2118,/learn/certification/desktop-certified-professional
-2095,/about/blog/2016/7/if-i-were-new-tableau-again-3-things-no-one-told-me-56368
-2039,/learn/articles/data-visualization
-2018,/zh-cn/learn/tutorials/on-demand/getting-started
-2017,/asset/tableau-big-data-overview
-2009,/fr-fr
-2009,/products/techspecs
-2008,/ja-jp/products
-1992,/zh-cn/search
+119336, https://tableau.com/
+41769, https://tableau.com/products/desktop/download
+40485, https://tableau.com/learn/training
+32324, https://tableau.com/academic/students
+27478, https://tableau.com/search
+25686, https://tableau.com/asset/excel-and-tableau-beautiful-partnership
+21529, https://tableau.com/products/desktop
+20459, https://tableau.com/pricing/individual
+20235, https://tableau.com/products
+19235, https://tableau.com/tableau-student/
+19026, https://tableau.com/products/trial
+18594, https://tableau.com/learn/tutorials/on-demand/getting-started
+17377, https://tableau.com/support
+15979, https://tableau.com/trial/tableau-software
+15423, https://tableau.com/pricing/teams-orgs
+14564, https://tableau.com/tableau-student/index.html
+14255, https://tableau.com/products/reader
+14077, https://tableau.com/support/releases/desktop/2019.2.3
+13320, https://tableau.com/asset/5-most-influential-visualizations
+13097, https://tableau.com/support/releases
+12179, https://tableau.com/learn/certification
+11722, https://tableau.com/tft/activation
+11469, https://tableau.com/asset/data-storytelling-using-visualization-share-human-impact-numbers
+11154, https://tableau.com/learn
+11151, https://tableau.com/individual
+9964, https://tableau.com/products/cloud-bi
+9335, https://tableau.com/products/reader/download
+8961, https://tableau.com/products/prep/download
+8938, https://tableau.com/learn/training/elearning
+7680, https://tableau.com/ja-jp
+7598, https://tableau.com/zh-cn/trial/tableau-software
+6817, https://tableau.com/about/careers
+5878, https://tableau.com/solutions
+5804, https://tableau.com/ja-jp/asset/data-storytelling-using-visualization-share-human-impact-numbers
+5656, https://tableau.com/learn/certification/desktop-specialist
+5593, https://tableau.com/support/help
+5430, https://tableau.com/page-not-found
+5187, https://tableau.com/en-us/support/drivers
+5023, https://tableau.com/support/drivers
+4994, https://tableau.com/learn/classroom
+4944, https://tableau.com/zh-cn
+4670, https://tableau.com/tableau-student/upload-success.html
+4619, https://tableau.com/products/prep
+4359, https://tableau.com/solutions/gallery
+4345, https://tableau.com/learn/certification/desktop-certified-associate
+4263, https://tableau.com/learn/classroom/in-person
+4256, https://tableau.com/asset/six-myths-moving-traditional-to-modern-bi
+4253, https://tableau.com/learn/tutorials/on-demand/tableau-interface
+4251, https://tableau.com/pricing/embedded
+4218, https://tableau.com/products/server
+4159, https://tableau.com/about/contact
+4141, https://tableau.com/trial/interactive-charts-and-graphs
+3972, https://tableau.com/support/case
+3965, https://tableau.com/academic
+3964, https://tableau.com/fr-fr/asset/excel-and-tableau-beautiful-partnership
+3772, https://tableau.com/zh-cn/learn/training
+3771, https://tableau.com/learn/get-started
+3698, https://tableau.com/support/desktop
+3626, https://tableau.com/community
+3619, https://tableau.com/support/releases/server
+3547, https://tableau.com/products/new-features
+3544, https://tableau.com/teams-orgs
+3496, https://tableau.com/fr-fr/asset/how-build-dashboards-persuade-inform-and-engage
+3466, https://tableau.com/es-es
+3349, https://tableau.com/learn/tutorials/on-demand/getting-started-data
+3305, https://tableau.com/learn/classroom/desktop-one
+3294, https://tableau.com/products/desktop/download-now
+3176, https://tableau.com/accelerate-your-advanced-analytics-r-python-matlab-emea
+3133, https://tableau.com/learn/classroom/virtual
+3099, https://tableau.com/about/blog/LOD-expressions
+2964, https://tableau.com/learn/tutorials/on-demand/getting-started-tableau-prep
+2855, https://tableau.com/trial/excel-with-your-data
+2810, https://tableau.com/ja-jp/reports/business-intelligence-trends
+2743, https://tableau.com/asset/dos-and-donts-dashboards
+2727, https://tableau.com/learn/tutorials/on-demand/getting-started-visual-analytics
+2700, https://tableau.com/es-es/trial/tableau-software
+2575, https://tableau.com/learn/series/advanced-analytics-data-scientists-emea
+2477, https://tableau.com/zh-cn/products/trial
+2472, https://tableau.com/about
+2409, https://tableau.com/asset/top-10-big-data-trends
+2370, https://tableau.com/ja-jp/pricing/teams-orgs
+2328, https://tableau.com/learn/get-started/creator
+2306, https://tableau.com/learn/articles/free-public-data-sets
+2280, https://tableau.com/academic/teaching
+2264, https://tableau.com/pt-br
+2250, https://tableau.com/support/activation
+2240, https://tableau.com/ja-jp/learn/articles/what-is-benchmark
+2203, https://tableau.com/products/individuals
+2179, https://tableau.com/learn/tutorials/on-demand/distributing-and-publishing
+2170, https://tableau.com/learn/webinars/value-Tableau-Conference-TC19-2019-08-29
+2123, https://tableau.com/products/online/thanks
+2118, https://tableau.com/learn/certification/desktop-certified-professional
+2095, https://tableau.com/about/blog/2016/7/if-i-were-new-tableau-again-3-things-no-one-told-me-56368
+2039, https://tableau.com/learn/articles/data-visualization
+2018, https://tableau.com/zh-cn/learn/tutorials/on-demand/getting-started
+2017, https://tableau.com/asset/tableau-big-data-overview
+2009, https://tableau.com/fr-fr
+2009, https://tableau.com/products/techspecs
+2008, https://tableau.com/ja-jp/products
+1992, https://tableau.com/zh-cn/search
