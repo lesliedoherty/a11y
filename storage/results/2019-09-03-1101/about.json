@@ -1,7 +1,11 @@
 {
   "metadata": {
     "url": "https://tableau.com/about",
-    "visits": 2472
+    "visits": 2472,
+    "violations": 32,
+    "passes": 244,
+    "incomplete": 27,
+    "inapplicable": 33
   },
   "result": {
     "inapplicable": [
