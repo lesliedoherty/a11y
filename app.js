@@ -1,10 +1,10 @@
 #! /usr/bin/env node --no-warnings
 
 import express from 'express'
-import {FILE_PATHS} from './lib/constants'
+import { FILE_PATHS } from './lib/constants'
 import * as runner from './lib/runner'
 import * as storage from './lib/storage'
-import {enhanceResults} from './lib/resultHelper'
+import { enhanceResults } from './lib/resultHelper'
 import * as path from 'path'
 import * as df from 'date-format'
 

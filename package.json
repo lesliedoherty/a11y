@@ -6,14 +6,14 @@
   "main": "app.js",
   "scripts": {
     "start": "standard && nodemon app.js --exec babel-node",
-    "modernize": "babel-node modernize.js",
+    "modernize": "standard && nodemon modernize.js --exec babel-node",
     "test": "mocha --require @babel/register"
   },
   "keywords": [
     "easally",
     "a11y"
   ],
-  "author": "Stephen Lewis <code@stephenlewis.me>",
+  "author": "Leslie Doherty <frisbeeflingers@gmail.com> and Stephen Lewis <code@stephenlewis.me>",
   "license": "ISC",
   "dependencies": {
     "axe-webdriverjs": "^2.3.0",
