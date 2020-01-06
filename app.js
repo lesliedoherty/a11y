@@ -1,9 +1,10 @@
 #! /usr/bin/env node --no-warnings
 
 import express from 'express'
-import { FILE_PATHS } from './lib/constants'
+import {FILE_PATHS} from './lib/constants'
 import * as runner from './lib/runner'
 import * as storage from './lib/storage'
+import {enhanceResults} from './lib/resultHelper'
 import * as path from 'path'
 import * as df from 'date-format'
 
@@ -52,7 +53,9 @@ const runPageTests = async (testPages) => {
 
   for await (const testPage of testPages) {
     const resultJson = await runner.checkUrl(testPage.url)
-    await storage.saveResult(outputPath, testPage, resultJson)
+
+    await storage.saveResult(outputPath, testPage.url, enhanceResults(testPage, resultJson))
+
     console.log(`[${++doneCount}/${totalCount}] Finished testing ${testPage.url}`)
 
     // Rudimentary attempt to avoid rate-limiting
