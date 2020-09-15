@@ -51,12 +51,15 @@ const runPageTests = async (testPages) => {
   const totalCount = testPages.length
   let doneCount = 0
 
+  console.log('Total count ', totalCount)
+  console.log('Output path ', outputPath)
   for await (const testPage of testPages) {
-    const resultJson = await runner.checkUrl(testPage.url)
+    const url = testPage.url
+    const resultJson = await runner.checkUrl(url)
 
-    await storage.saveResult(outputPath, testPage.url, enhanceResults(testPage, resultJson))
+    await storage.saveResult(outputPath, url, enhanceResults(testPage, resultJson))
 
-    console.log(`[${++doneCount}/${totalCount}] Finished testing ${testPage.url}`)
+    console.log(`[${++doneCount}/${totalCount}] Finished testing ${url}`)
 
     // Rudimentary attempt to avoid rate-limiting
     await sleep(3)
